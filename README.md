@@ -1,2 +1,3 @@
 # Divyanshu-csoc
 Hi, my name is Divyanshu. I’m currently a first-year student in the Information Science and Engineering branch at Sir MVIT, currently in my second semester. My current tech stack includes C, SQL, and Python, and I’m actively exploring and building a strong foundation in these languages. I have a keen interest in Data Structures and Algorithms (DSA) and I'm also excited about diving deeper into AI tools and Machine Learning. I'm passionate about learning and growing in the tech space, and I'm always looking forward to new opportunities and challenges.
+My linkedin profile link:- https://www.linkedin.com/in/mr-divyanshu-702824305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
